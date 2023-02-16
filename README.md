@@ -1,12 +1,19 @@
 # Clase-PLN-Platzi
-# Fundamentos de Lenguaje Natural con Python y NLTK
-NLP es el camino hacia el ideal de I.A.
+
+# Curso de Fundamentos de Procesamiento de Lenguaje Natural con Python y NLTK
+
+# Modulo 1 Introducción al Procesamiento de Lenguaje Natural
+
+# Clase 1 Introducción al Procesamiento de Lenguaje Natural
+
+# Introduccion al NLP: Perspectivas y estado del arte
+
+# NLP es el camino hacia el ideal de I.A.
+
 Antes de iniciar debemos comprender dos definiciones:
 
-NLP: Natural Language ProcessingEs
-
-NLU: Natural Language Understanding
-
+*NLP*: Natural Language ProcessingEs
+*NLU*: Natural Language Understanding
 NLP es un area que combina lo siguiente:
 
 Ciencias de la computación
