@@ -1,5 +1,5 @@
 # Clase-PLN-Platzi
-Fundamentos de Lenguaje Natural con Python y NLTK
+# Fundamentos de Lenguaje Natural con Python y NLTK
 NLP es el camino hacia el ideal de I.A.
 Antes de iniciar debemos comprender dos definiciones:
 
