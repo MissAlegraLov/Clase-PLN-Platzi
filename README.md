@@ -12,8 +12,8 @@
 
 Antes de iniciar debemos comprender dos definiciones:
 
-*NLP*: Natural Language ProcessingEs
-*NLU*: Natural Language Understanding
+**NLP**: Natural Language ProcessingEs
+**NLU**: Natural Language Understanding
 NLP es un area que combina lo siguiente:
 
 Ciencias de la computación
